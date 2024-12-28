@@ -1,7 +1,7 @@
 body {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: #060112;
-    background-image: url("/portfolio/g12.png");
+    background-image: url("g12.png");
     background-repeat: no-repeat;
     background-size: 100% auto;
     margin: 0; 
